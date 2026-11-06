@@ -25,9 +25,9 @@
 
 | 仓库 | 定位 | 亮点 |
 | :--- | :--- | :--- |
-| 🧩 [**coding-agent-harness-patterns**](https://github.com/wangguode/coding-agent-harness-patterns) | 从零拆解 Codex / Claude Code 式编码智能体 | Agent Loop · 上下文压缩 · Skills · 子智能体 · Hooks · 记忆，单文件零依赖可运行 |
+| 📞 [**voice-agent-rtp-gateway**](https://github.com/wangguode/voice-agent-rtp-gateway) | 企业级中文实时语音智能体网关 | FreeSWITCH 8kHz RTP/WebSocket + Pipecat 全双工管道 + DeepSeek/SenseVoice + 60ms 毫秒级打断（`wg-voice demo` 零配置开箱即用） |
+| 🧩 [**coding-agent-harness-patterns**](https://github.com/wangguode/coding-agent-harness-patterns) | 从零拆解 Codex / Claude Code 式编码智能体 | 8 大 Harness 模式（Agent Loop · 上下文压缩 · Skills · 子智能体 · Hooks · 记忆 · MCP Server · 自我验证修复）+ `wg-harness` CLI |
 | 🎙️ [**AI-Agent-and-Voice-Engineering**](https://github.com/wangguode/AI-Agent-and-Voice-Engineering) | 知乎 100+ 篇长文索引 + 配套代码实验室 | RTP 毫秒级打断 · Harness 内核 · 七层 Agentic RAG |
-| 📞 voice-agent-rtp-gateway（筹备中） | 生产级语音机器人网关 | Java Netty RTP / FreeSWITCH ESL + 全双工流式管道 |
 
 ---
 
@@ -62,5 +62,6 @@
 ### 🤝 交流与联系 (Connect with Me)
 
 - **知乎主页**：[王果ai (https://www.zhihu.com/people/wang-guo-ha-53)](https://www.zhihu.com/people/wang-guo-ha-53)
+- **实时语音智能体网关**：[wangguode/voice-agent-rtp-gateway](https://github.com/wangguode/voice-agent-rtp-gateway)
 - **编码智能体模式库**：[wangguode/coding-agent-harness-patterns](https://github.com/wangguode/coding-agent-harness-patterns)
 - **开源专栏索引**：[wangguode/AI-Agent-and-Voice-Engineering](https://github.com/wangguode/AI-Agent-and-Voice-Engineering)
