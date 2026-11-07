@@ -25,8 +25,8 @@
 
 | 仓库 | 定位 | 亮点 |
 | :--- | :--- | :--- |
-| 📞 [**voice-agent-rtp-gateway**](https://github.com/wangguode/voice-agent-rtp-gateway) | 企业级中文实时语音智能体网关（Java + Python 双栈） | **Java 17 + Spring Boot 3 实时语音监控大屏** + FreeSWITCH 8kHz RTP 边缘网关 + Pipecat 全双工流式管道 + 60ms 毫秒级 `clearAudio` 打断（零密钥一键运行） |
-| 🧩 [**coding-agent-harness-patterns**](https://github.com/wangguode/coding-agent-harness-patterns) | 生产级编码智能体 Harness 平台（Java + Python 双栈） | **Java 17 + Spring Boot 3 `WG Harness Studio` 可视化工作台** + 8 大核心模式（Agent Loop 单测自修复 · HITL 审批护栏 · `/compact` 压缩 · Skills · MCP Server · 衰减记忆） |
+| 📞 [**voice-agent-rtp-gateway**](https://github.com/wangguode/voice-agent-rtp-gateway) | 企业级中文实时语音智能体网关（Java + React + Python） | **Java 17 + Spring Boot 3 `Voice Agent · RTP Gateway` 实时语音工作台** + FreeSWITCH 8kHz RTP 边缘网关 + Pipecat 全双工流式管道 + 60ms 毫秒级 `clearAudio` 打断（支持 macOS/Windows 桌面端） |
+| 🧩 [**coding-agent-harness-patterns**](https://github.com/wangguode/coding-agent-harness-patterns) | 生产级编码智能体 Harness 平台（Java + React + Python） | **Java 17 + Spring Boot 3 `Harness Agent` 可视化工作台** + 8 大核心模式（ReAct 工具调用 · 单测自修复 · HITL 审批护栏 · `/compact` 压缩 · Skills · MCP Server，支持 macOS/Windows 桌面端） |
 | 🎙️ [**AI-Agent-and-Voice-Engineering**](https://github.com/wangguode/AI-Agent-and-Voice-Engineering) | 知乎 100+ 篇长文全景索引 + 配套代码实验室 | Voice Agent 全栈实战 · Harness/Loop Engineering · AI Agent 七层架构（29 讲） · 企业级 RAG 七层模型 |
 
 ---
