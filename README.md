@@ -35,6 +35,15 @@
 - **隐私保护**：财务数据在客户端本地解析不上传云端；秒级导出多工作表 Excel 与 QuickBooks CSV。
 - **直达链接**：[🌐 在线使用 (Live Demo)](https://statementflow-ai.153557421.workers.dev) · [💻 GitHub 源码](https://github.com/wangguode/statementflow-ai)
 
+<br/>
+
+#### 🎙️ [HardCall // AI 高压语音面试与演说路演考官](https://hardcall.153557421.workers.dev)
+> 专治通用大模型的“无限礼貌讨好”，基于 52ms 毫秒级抢话打断算法，为海外求职者与演讲者提供高压全双工语音实战。
+
+- **高压对练**：覆盖 FAANG 行为与系统架构答辩、破 $160K 薪资谈判与 YC Demo Day 商业路演，毫秒级捕捉口癖套话 (`um`/`like`/`you know`) 与缺乏数据支撑。
+- **全端体验**：支持网页端免提开麦直接对练，同步提供 Swift 6 + Apple Speech 原生 macOS 客户端 (.dmg)，生成口癖词频雷达与 $200K+ 高管级话术改写。
+- **直达链接**：[🌐 在线体验 (Live Demo)](https://hardcall.153557421.workers.dev) · [💻 GitHub 源码](https://github.com/wangguode/hardcall)
+
 ---
 
 ### 🛠️ 开源工程与研究沉淀
