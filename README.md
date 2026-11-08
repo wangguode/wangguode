@@ -19,7 +19,7 @@
 
 ### 🚀 精选在线作品 (Featured Projects)
 
-#### 🌍 [TERRA 3.0 // 物理空间世界模型 · 跨国落地生存系统](https://terra-world-travel.153557421.workers.dev)
+#### 🌍 [TERRA // 物理空间世界模型 · 跨国落地生存操作系统](https://terra-world-travel.153557421.workers.dev)
 > 解决跨国旅行下飞机黄金 120 分钟断网、换汇与地图失效痛点，融合 3D 高斯点云 (3DGS) 第一视角空间动线推演与时空孪生对比。
 
 - **全端体验**：电脑端呈现 Apple 级旗舰沉浸官网，手机端一键“添加到主屏幕”秒变 120Hz 离线原生 App。
