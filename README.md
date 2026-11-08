@@ -5,7 +5,7 @@
 **AI Agent 架构师 · 实时语音系统 · 独立开发者 (Independent Builder)**
 
 [![Zhihu](https://img.shields.io/badge/知乎-@王果ai_(1.2w+_关注)-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/wang-guo-ha-53)
-[![Articles](https://img.shields.io/badge/专栏长文-100+_篇体系化实战-10B981?style=flat-square)](https://github.com/wangguode/AI-Agent-and-Voice-Engineering)
+[![Articles](https://img.shields.io/badge/专栏长文-100+_篇体系化实战-10B981?style=flat-square)](https://github.com/wangguode/ai-agent-voice)
 [![Email](https://img.shields.io/badge/Email-17768113090@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:17768113090@163.com)
 
 <br/>
@@ -48,13 +48,13 @@
 
 ### 🛠️ 开源工程与研究沉淀
 
-- 🧩 [**coding-agent-harness-patterns**](https://github.com/wangguode/coding-agent-harness-patterns)  
-  *智能体 Harness 工作台与核心设计模式*：单文件零依赖模式库 + 全栈工作台，沉淀 Agent Loop、动态上下文压缩、MCP 协议与单测自修复。
+- 🧩 [**zhishu-agent**](https://github.com/wangguode/zhishu-agent)  
+  *知枢通用智能体 (Zhishu Agent) Harness 架构与模式库*：单文件零依赖模式库 + 全栈工作台，沉淀通用 Agent Loop 编排、动态上下文压缩、MCP 协议与单测自修复。
 
 - 🎙️ [**voice-agent-rtp-gateway**](https://github.com/wangguode/voice-agent-rtp-gateway)  
   *企业级实时语音智能体网关*：FreeSWITCH RTP 直连 + Pipecat 全双工编排 + SenseVoice 语义打断（60ms 极速响应）。
 
-- 📚 [**AI-Agent-and-Voice-Engineering**](https://github.com/wangguode/AI-Agent-and-Voice-Engineering)  
+- 📚 [**ai-agent-voice**](https://github.com/wangguode/ai-agent-voice)  
   *100+ 篇体系化实战专栏与代码实验室*：完整覆盖 Voice Agent 全栈实战、Agent 七层架构、Harness 工程学与 RAG 评测模型。
 
 ---
