@@ -48,14 +48,27 @@
 
 ### 🛠️ 开源工程与研究沉淀
 
-- 🧩 [**zhishu-agent**](https://github.com/wangguode/zhishu-agent)  
-  *知枢通用智能体 (Zhishu Agent) Harness 架构与模式库*：单文件零依赖模式库 + 全栈工作台，沉淀通用 Agent Loop 编排、动态上下文压缩、MCP 协议与单测自修复。
+#### 🧩 [zhishu-agent // 知枢通用智能体 Harness 架构与模式库](https://github.com/wangguode/zhishu-agent)
+> 单文件零依赖模式库 + Java 17 / Python 双引擎工作台，沉淀通用 Agent Loop 编排、动态上下文压缩、MCP 协议与单测自修复闭环。
 
-- 🎙️ **voice-agent-rtp-gateway** *(商业核心·私有仓库)* · [🧪 开源打断算法实验室](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)  
-  *企业级实时语音智能体网关*：FreeSWITCH RTP 直连 + Pipecat 全双工编排 + SenseVoice 语义打断（60ms 极速响应）。
+- **核心工程**：3 层沙箱权限拦截（PreToolUse/PostToolUse）、两级 /compact 结构化上下文压缩、Git Worktree 多智能体隔离池。
+- **直达链接**：[💻 GitHub 源码](https://github.com/wangguode/zhishu-agent)
 
-- 📚 [**ai-agent-voice**](https://github.com/wangguode/ai-agent-voice)  
-  *100+ 篇体系化实战专栏与代码实验室*：完整覆盖 Voice Agent 全栈实战、Agent 七层架构、Harness 工程学与 RAG 评测模型。
+<br/>
+
+#### 🎙️ voice-agent-rtp-gateway (商业核心 · 私有仓库) · [🧪 开源打断算法实验室](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)
+> 企业级实时语音智能体网关：FreeSWITCH 8kHz RTP 直连 + Pipecat 全双工编排 + SenseVoice 语义打断（60ms 极速响应）。
+
+- **核心工程**：SOXR VHQ 无损重采样、256 帧出站环形缓冲区、0.16ms clearAudio 瞬时清空与全链路可观测体系。
+- **直达链接**：[🧪 查看开源算法实现](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)
+
+<br/>
+
+#### 📚 [ai-agent-voice // 体系化实战专栏与代码实验室](https://github.com/wangguode/ai-agent-voice)
+> 完整覆盖 Voice Agent 全栈实战、Agent 七层架构、Harness 工程学与 RAG 评测模型的 100+ 篇深度专栏与可运行实验室。
+
+- **核心工程**：全双工实时语音网关演进、Loop 工程学与自验证闭环、混合检索 + GraphRAG 实战落地。
+- **直达链接**：[💻 GitHub 源码与全套代码](https://github.com/wangguode/ai-agent-voice)
 
 ---
 
