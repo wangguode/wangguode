@@ -68,8 +68,20 @@
 
 ---
 
-### 📬 技术交流
+### 🎓 企业内训、架构咨询与商业合作 (Training & Consulting)
 
-- **知乎专栏**：[@王果ai](https://www.zhihu.com/people/wang-guo-ha-53)
-- **电子邮箱**：[17768113090@163.com](mailto:17768113090@163.com)
-- **交流方向**：AI Agent 架构设计、实时语音落地、出海产品探讨。
+依托《OpenClaw 深度解析：从架构原理到 Agent 工程实践》专著体系与一线生产级代码底座，提供**企业研发团队内训、架构咨询与商业网关授权**：
+
+| 服务模块 | 核心交付内容 | 适用团队 |
+| :--- | :--- | :--- |
+| **内训课程 A：《企业级 AI Agent 架构与 Harness 工程实战》** | Agent Loop 收敛控制、上下文压缩 (`/compact`)、MCP/Skills 插件化封装、Java Spring Boot 3 与 Python 混合编排、沙箱安全与评测回归 | 正在从 Prompt/Workflow 迈向生产级自主 Agent 的研发团队 |
+| **内训课程 B：《大模型实时语音 (Voice Agent) 全栈工程实战》** | FreeSWITCH/SIP/RTP 媒体流接入、流式 ASR/TTS 协同、60ms 毫秒级语义打断 (`Barge-in`)、高并发电话/WebRTC 语音网关架构 | 智能客服、金融外呼、智能硬件、出海语音社交研发团队 |
+| **商业底座授权与架构咨询** | `voice-agent-rtp-gateway` 企业级实时语音网关源码级交付 / 存量 Java 系统 Agent 化改造架构评审 | 需要快速落地低延迟语音机器人或企业级 Agent 平台的技术团队 |
+
+---
+
+### 📬 技术交流与商务联系
+
+- **知乎主页（私信咨询）**：[@王果ai (1.2w+ 关注)](https://www.zhihu.com/people/wang-guo-ha-53)
+- **商务与内训联系邮箱**：[17768113090@163.com](mailto:17768113090@163.com)
+- **合作方向**：企业 AI Agent / 实时语音技术内训、架构咨询、商业网关授权、出海产品合作。
