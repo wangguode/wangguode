@@ -51,7 +51,7 @@
 - 🧩 [**zhishu-agent**](https://github.com/wangguode/zhishu-agent)  
   *知枢通用智能体 (Zhishu Agent) Harness 架构与模式库*：单文件零依赖模式库 + 全栈工作台，沉淀通用 Agent Loop 编排、动态上下文压缩、MCP 协议与单测自修复。
 
-- 🎙️ [**voice-agent-rtp-gateway**](https://github.com/wangguode/voice-agent-rtp-gateway)  
+- 🎙️ **voice-agent-rtp-gateway** *(商业核心·私有仓库)* · [🧪 开源打断算法实验室](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)  
   *企业级实时语音智能体网关*：FreeSWITCH RTP 直连 + Pipecat 全双工编排 + SenseVoice 语义打断（60ms 极速响应）。
 
 - 📚 [**ai-agent-voice**](https://github.com/wangguode/ai-agent-voice)  
