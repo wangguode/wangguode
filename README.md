@@ -2,16 +2,16 @@
 
 # 王果 (Wang Guo)
 
-**AI Agent 架构师 · 实时语音系统 · 独立开发者 (Independent Builder)**
+**AI 工程实践探索者 · 技术书籍作者 · 独立开发者 (Independent Builder)**
 
 [![Zhihu](https://img.shields.io/badge/知乎-@王果ai_(1.2w+_关注)-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/wang-guo-ha-53)
 [![Articles](https://img.shields.io/badge/专栏长文-100+_篇体系化实战-10B981?style=flat-square)](https://github.com/wangguode/ai-agent-voice)
-[![Email](https://img.shields.io/badge/Email-17768113090@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:17768113090@163.com)
+[![GitHub](https://img.shields.io/badge/GitHub-wangguode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wangguode)
 
 <br/>
 
-专注 **AI Agent 智能体架构**、**全双工低延迟实时语音引擎 (Voice Agent)** 与 **空间世界模型应用**。<br/>
-坚持以可运行的代码与真实产品说话，知乎专栏 1.2w+ 关注，《OpenClaw 深度解析》作者。
+专注 **AI Agent 设计模式**、**全双工低延迟交互实验** 与 **物理空间世界模型应用**。<br/>
+坚持以可运行的原型与工程沉淀说话，知乎专栏 1.2w+ 关注，《OpenClaw 深度解析》作者。
 
 </div>
 
@@ -37,11 +37,11 @@
 
 <br/>
 
-#### 🎙️ [HardCall // AI 高压语音面试与演说路演考官](https://hardcall.153557421.workers.dev)
-> 专治通用大模型的“无限礼貌讨好”，基于 52ms 毫秒级抢话打断算法，为海外求职者与演讲者提供高压全双工语音实战。
+#### 🎙️ [HardCall // AI 语音模拟面试与演说路演练习室](https://hardcall.153557421.workers.dev)
+> 聚焦低延迟打断与流式语音交互实验，为求职者与演讲者提供高拟真全双工语音模拟对练。
 
-- **高压对练**：覆盖 FAANG 行为与系统架构答辩、破 $160K 薪资谈判与 YC Demo Day 商业路演，毫秒级捕捉口癖套话 (`um`/`like`/`you know`) 与缺乏数据支撑。
-- **全端体验**：支持网页端免提开麦直接对练，同步提供 Swift 6 + Apple Speech 原生 macOS 客户端 (.dmg)，生成口癖词频雷达与 $200K+ 高管级话术改写。
+- **对练场景**：覆盖行为与系统架构答辩、薪资谈判模拟与商业路演，捕捉口癖套话 (`um`/`like`/`you know`) 与缺乏数据支撑。
+- **全端体验**：支持网页端免提开麦直接对练，同步提供 Swift 6 + Apple Speech 原生 macOS 客户端 (.dmg)。
 - **直达链接**：[🌐 在线体验 (Live Demo)](https://hardcall.153557421.workers.dev) · [💻 GitHub 源码](https://github.com/wangguode/hardcall)
 
 ---
@@ -49,25 +49,17 @@
 ### 🛠️ 开源工程与研究沉淀
 
 #### 🧩 [zhishu-agent // 知枢通用智能体 Harness 架构与模式库](https://github.com/wangguode/zhishu-agent)
-> 单文件零依赖模式库 + Java 17 / Python 双引擎工作台，沉淀通用 Agent Loop 编排、动态上下文压缩、MCP 协议与单测自修复闭环。
+> 单文件零依赖模式库 + 全栈工作台，沉淀通用 Agent Loop 编排、动态上下文压缩、MCP 协议与单测自修复闭环。
 
 - **核心工程**：3 层沙箱权限拦截（PreToolUse/PostToolUse）、两级 /compact 结构化上下文压缩、Git Worktree 多智能体隔离池。
 - **直达链接**：[💻 GitHub 源码](https://github.com/wangguode/zhishu-agent)
 
 <br/>
 
-#### 🎙️ voice-agent-rtp-gateway (商业核心 · 私有仓库) · [🧪 开源打断算法实验室](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)
-> 企业级实时语音智能体网关：FreeSWITCH 8kHz RTP 直连 + Pipecat 全双工编排 + SenseVoice 语义打断（60ms 极速响应）。
-
-- **核心工程**：SOXR VHQ 无损重采样、256 帧出站环形缓冲区、0.16ms clearAudio 瞬时清空与全链路可观测体系。
-- **直达链接**：[🧪 查看开源算法实现](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)
-
-<br/>
-
 #### 📚 [ai-agent-voice // 体系化实战专栏与代码实验室](https://github.com/wangguode/ai-agent-voice)
-> 完整覆盖 Voice Agent 全栈实战、Agent 七层架构、Harness 工程学与 RAG 评测模型的 100+ 篇深度专栏与可运行实验室。
+> 覆盖 Agent 设计模式、Harness 工程学与 RAG 评测模型的 100+ 篇深度专栏与可运行实验室。
 
-- **核心工程**：全双工实时语音网关演进、Loop 工程学与自验证闭环、混合检索 + GraphRAG 实战落地。
+- **核心工程**：实时交互实验、Loop 工程学与自验证闭环、混合检索 + GraphRAG 实战落地。
 - **直达链接**：[💻 GitHub 源码与全套代码](https://github.com/wangguode/ai-agent-voice)
 
 ---
@@ -84,5 +76,4 @@
 ### 📬 技术交流
 
 - **知乎专栏**：[@王果ai](https://www.zhihu.com/people/wang-guo-ha-53)
-- **电子邮箱**：[17768113090@163.com](mailto:17768113090@163.com)
-- **交流方向**：AI Agent 架构设计、实时语音落地、开源项目探讨。
+- **交流方向**：AI Agent 架构设计、开源原型探讨、技术写作与出版。
