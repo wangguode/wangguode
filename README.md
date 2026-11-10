@@ -6,6 +6,7 @@
 
 [![Zhihu](https://img.shields.io/badge/知乎-@王果ai_(1.2w+_关注)-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/wang-guo-ha-53)
 [![Articles](https://img.shields.io/badge/专栏长文-100+_篇体系化实战-10B981?style=flat-square)](https://github.com/wangguode/ai-agent-voice)
+[![Email](https://img.shields.io/badge/Email-17768113090@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:17768113090@163.com)
 [![GitHub](https://img.shields.io/badge/GitHub-wangguode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wangguode)
 
 <br/>
@@ -73,7 +74,8 @@
 
 ---
 
-### 📬 技术交流
+### 📬 技术交流与合作
 
+- **电子邮箱**：[17768113090@163.com](mailto:17768113090@163.com)
 - **知乎专栏**：[@王果ai](https://www.zhihu.com/people/wang-guo-ha-53)
-- **交流方向**：AI Agent 架构设计、开源原型探讨、技术写作与出版。
+- **交流方向**：技术写作与出版合作、AI Agent 模式探讨、开源项目交流。
