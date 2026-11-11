@@ -4,9 +4,6 @@
 ### Voice AI & Agent Systems Architect · Independent Builder
 
 [![GitHub](https://img.shields.io/badge/GitHub-@wangguode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wangguode)
-[![DEV.to](https://img.shields.io/badge/DEV.to-@wangguode-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/wangguode)
-[![X (Twitter)](https://img.shields.io/badge/X-@sansaxypy-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sansaxypy)
-[![Reddit](https://img.shields.io/badge/Reddit-u/Miserable--Point--Wg-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Miserable-Point-Wg/)
 [![Zhihu](https://img.shields.io/badge/知乎-@王果ai_(1.2w+_关注)-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/wang-guo-ha-53)
 [![Email](https://img.shields.io/badge/Email-17768113090@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:17768113090@163.com)
 
@@ -80,8 +77,5 @@ Focused on **Autonomous Agent Architectures (Harness & Loops)**, **Full-Duplex V
 ### 📬 技术交流与联系 (Connect)
 
 - **GitHub**：[@wangguode](https://github.com/wangguode)
-- **DEV.to**：[@wangguode](https://dev.to/wangguode)
-- **X (Twitter)**：[@sansaxypy](https://x.com/sansaxypy)
-- **Reddit**：[u/Miserable-Point-Wg](https://www.reddit.com/user/Miserable-Point-Wg/)
 - **知乎专栏**：[@王果ai](https://www.zhihu.com/people/wang-guo-ha-53)
 - **电子邮箱**：[17768113090@163.com](mailto:17768113090@163.com)
