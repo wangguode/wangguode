@@ -29,16 +29,6 @@ Focused on **Autonomous Agent Architectures (Harness & Loops)**, **Full-Duplex V
 
 <br/>
 
-#### 🧩 [zhishu-agent · 通用智能体 Harness 架构与单测自修复闭环 (Agentic Harness)](https://github.com/wangguode/zhishu-agent)
-> 面向生产环境的通用智能体 Harness 架构库：单文件零依赖模式库 + Java 17 / Python 双引擎工作台。
-> Production-ready agentic harness: dynamic context compression, sandbox interceptors, and self-healing test loops.
-
-- **单测自修复闭环 (Self-Healing Loop)**：测试套件与执行环境实时捕获运行时报错，基于 AST 与诊断上下文自驱动修正代码直至用例全部收敛通过。
-- **核心工程底座**：3 层沙箱权限拦截（PreToolUse / PostToolUse）、两级 `/compact` 结构化上下文压缩、Git Worktree 多智能体并发隔离池。
-- **直达链接**：[💻 GitHub 源码](https://github.com/wangguode/zhishu-agent)
-
-<br/>
-
 #### 📊 [StatementFlow AI · 跨境银行对账单 & 发票解析 Micro-SaaS (Deterministic Parser)](https://statementflow-ai.153557421.workers.dev)
 > 结合 LLM 语义提取与 TypeScript 确定性代数校验的智能对账引擎，杜绝传统 OCR 错乱与大模型财务算术幻觉。
 > Deterministic financial statement reconciliation combining schema-constrained extraction with zero-hallucination math validation.
@@ -46,6 +36,26 @@ Focused on **Autonomous Agent Architectures (Harness & Loops)**, **Full-Duplex V
 - **双引擎代数校验**：Schema 约束语义识别 + 本地确定性借贷校验 (`期初 + 贷方 - 借方 = 期末`)，算力纯客户端执行保护商业隐私。
 - **格式秒级转换**：秒级解析杂乱 PDF 账单，一键导出清洗完备的多工作表 Excel 及 QuickBooks / Xero 标准格式 CSV。
 - **直达链接**：[🌐 在线使用 (Live Demo)](https://statementflow-ai.153557421.workers.dev) · [💻 GitHub 源码](https://github.com/wangguode/statementflow-ai)
+
+<br/>
+
+#### 🌐 [TERRA-OASIS · 交互式多模态世界模型操作系统 (Interactive Causal World Model)](https://terra.153557421.workers.dev)
+> 基于潜空间因果推演与 3D 物理碰撞模拟的交互式世界模型，提供 Apple 官方旗舰级交互体验、API 开发者文档与前沿科研论文。
+> Interactive causal world model powered by neural radiation latents and real-time physical simulation with Apple Developer grade documentation and ML research papers.
+
+- **Apple 级官方旗舰设计**：深度对标 Apple 极简工业设计，内置全双工 AI 智能小抽屉助手、中英双语无缝切换、多模态时空交互视口。
+- **完整开发者与科研矩阵**：完全对标 Apple Developer API 声明与多语言代码调用规格 (`/docs`)，以及 Apple ML Research 会议收录论文与消融基准实验 (`/research`)。
+- **直达链接**：[🌐 在线体验 (Live Demo)](https://terra.153557421.workers.dev) · [💻 GitHub 源码](https://github.com/wangguode/terra-world-travel)
+
+<br/>
+
+#### 🧩 [zhishu-agent · 通用智能体 Harness 架构与单测自修复闭环 (Agentic Harness)](https://github.com/wangguode/zhishu-agent)
+> 面向生产环境的通用智能体 Harness 架构库：单文件零依赖模式库 + Java 17 / Python 双引擎工作台。
+> Production-ready agentic harness: dynamic context compression, sandbox interceptors, and self-healing test loops.
+
+- **单测自修复闭环 (Self-Healing Loop)**：测试套件与执行环境实时捕获运行时报错，基于 AST 与诊断上下文自驱动修正代码直至用例全部收敛通过。
+- **核心工程底座**：3 层沙箱权限拦截（PreToolUse / PostToolUse）、两级 `/compact` 结构化上下文压缩、Git Worktree 多智能体并发隔离池。
+- **直达链接**：[💻 GitHub 源码](https://github.com/wangguode/zhishu-agent)
 
 ---
 
