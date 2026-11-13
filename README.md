@@ -39,13 +39,13 @@ Focused on **Autonomous Agent Architectures (Harness & Loops)**, **Full-Duplex V
 
 <br/>
 
-#### 🌐 [TERRA-OASIS · 交互式多模态世界模型操作系统 (Interactive Causal World Model)](https://terra.153557421.workers.dev)
-> 基于潜空间因果推演与 3D 物理碰撞模拟的交互式世界模型，提供 Apple 官方旗舰级交互体验、API 开发者文档与前沿科研论文。
-> Interactive causal world model powered by neural radiation latents and real-time physical simulation with Apple Developer grade documentation and ML research papers.
+#### 🌐 [TERRA-OASIS · 交互式多模态世界模型操作系统 (Interactive Causal World Model)](https://terra-world-travel.153557421.workers.dev/)
+> 基于潜空间因果推演与 3D 物理碰撞模拟的交互式世界模型，集成焦山定慧寺实景扫描、Amazon Lumberyard Bistro 写实街区与 Venice Sunset HDR 环境光，提供 Apple 官方旗舰级交互体验、API 开发者文档与前沿科研论文。
+> Interactive causal world model powered by photogrammetry temple scans, PBR city architecture, HDR lighting, and real-time physical simulation with Apple Developer grade documentation and ML research papers.
 
-- **Apple 级官方旗舰设计**：深度对标 Apple 极简工业设计，内置全双工 AI 智能小抽屉助手、中英双语无缝切换、多模态时空交互视口。
+- **旗舰双模大世界**：支持【焦山塔院 & 赛博禅刹】（真实摄影测量扫描古建、佛像雕塑、僧侣与禅茶交互）与【未来新城 & 写实街区】（Bistro PBR 户外街区与立体交通）实时漫游。
 - **完整开发者与科研矩阵**：完全对标 Apple Developer API 声明与多语言代码调用规格 (`/docs`)，以及 Apple ML Research 会议收录论文与消融基准实验 (`/research`)。
-- **直达链接**：[🌐 在线体验 (Live Demo)](https://terra.153557421.workers.dev) · [💻 GitHub 源码](https://github.com/wangguode/terra-world-travel)
+- **直达链接**：[🌐 在线体验 (Live Demo)](https://terra-world-travel.153557421.workers.dev/) · [💻 GitHub 源码](https://github.com/wangguode/terra-world-travel)
 
 <br/>
 
