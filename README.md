@@ -55,17 +55,12 @@ Author of *OpenClaw Deep-Dive: From Architecture to Agent Engineering* · 知乎
 
 ---
 
-### 📝 Selected Technical Deep Dives (精选长文)
+### 📝 精选深度长文 (Selected Articles · 知乎 @王果ai)
 
-**English Deep Dives:**
-1. 🎙️ [Breaking the 200ms Voice Barrier: Anatomy of a 52ms AI Interruption Loop](https://dev.to/wangguode/breaking-the-200ms-voice-barrier-anatomy-of-a-52ms-ai-interruption-loop-50p0)
-2. 🧩 [Self-Healing Coding Agents: How to Build a Production-Grade Harness Loop with MCP](https://dev.to/wangguode/self-healing-coding-agents-how-to-build-a-production-grade-harness-loop-with-mcp-48i9)
-3. 📊 [The $0.01 Deterministic Ledger: Why You Should Never Let LLMs Do Financial Math](https://dev.to/wangguode/the-001-deterministic-ledger-why-you-should-never-let-llms-do-financial-math-f7i)
-
-**中文深度专栏 (知乎 @王果ai):**
 1. 🔥 [Harness Engineering 和 Loop Engineering —— 一部 Agent 工程的血泪史 (470+ 赞)](https://zhuanlan.zhihu.com/p/2051682264325546663)
 2. 🔥 [Graph Engineering 刷屏了，但先问一个问题：你的 Agent Loop 收敛过吗？](https://zhuanlan.zhihu.com/p/2064476217709949350)
 3. 🎙️ [Agent-语音机器人篇(5)：Voice Agent 全栈架构深度解析](https://zhuanlan.zhihu.com/p/2081779542469906860)
+4. 🧠 [从“能聊”到“能干”：深度拆解 Function Calling、MCP 与 Anthropic Skills 的演进之路](https://zhuanlan.zhihu.com/p/78345307884)
 
 ---
 
