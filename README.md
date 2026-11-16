@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=2" />
-  <img alt="王果 · Wang Guo" src="./assets/header-dark.svg?v=2" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img alt="王果 · Wang Guo" src="./assets/banner-dark.svg" width="100%" />
 </picture>
 
 <br/>
@@ -17,12 +17,12 @@
 
 ### 核心开源项目
 
-| 项目 | 核心定位与工程指标 | 入口 |
-| :--- | :--- | :--- |
-| [**HardCall**](https://github.com/wangguode/hardcall) | **52ms 实时语音打断座舱** — 端侧声学 VAD + 256 帧环形缓冲截断，0.16ms 硬件级清空残留尾音；提供 Web 工作台与 Swift 6 原生 macOS 客户端。 | [在线体验](https://hardcall.153557421.workers.dev)&nbsp;·&nbsp;[源码](https://github.com/wangguode/hardcall) |
-| [**zhishu-agent**](https://github.com/wangguode/zhishu-agent) | **知枢智能体 Harness 架构** — Java 17 (Spring Boot 3) 全栈工作台 + Python 零依赖 8 大模式库；单测自愈闭环、PreToolUse 拦截与两级 `/compact` 压缩（省 85%+ Token）。 | [源码](https://github.com/wangguode/zhishu-agent) |
-| [**StatementFlow&nbsp;AI**](https://github.com/wangguode/statementflow-ai) | **确定性财务平账引擎** — AI 语义提取 + TypeScript 复式记账校验（精确至 `$0.01`），内置零 Key 启发式解析与表格公式注入防御。 | [在线使用](https://statementflow-ai.153557421.workers.dev)&nbsp;·&nbsp;[源码](https://github.com/wangguode/statementflow-ai) |
-| [**ai-agent-voice**](https://github.com/wangguode/ai-agent-voice) | **语音网关与架构实验室** — 100+ 篇体系化架构长文与可运行代码实验室，含 FreeSWITCH 8kHz 裸流 + SOXR VHQ 重采样 60ms RTP 打断实现。 | [实验室](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)&nbsp;·&nbsp;[源码](https://github.com/wangguode/ai-agent-voice) |
+| 项目 | 核心定位与工程指标 |
+| :--- | :--- |
+| [**HardCall**](https://github.com/wangguode/hardcall) | **52ms 实时语音打断座舱** — 端侧声学 VAD + 256 帧环形缓冲截断，0.16ms 硬件级清空残留尾音；提供 Web 工作台与 Swift 6 原生 macOS 客户端（[在线体验](https://hardcall.153557421.workers.dev) · [源码](https://github.com/wangguode/hardcall)）。 |
+| [**zhishu-agent**](https://github.com/wangguode/zhishu-agent) | **知枢智能体 Harness 架构** — Java 17 (Spring Boot 3) 全栈工作台 + Python 零依赖 8 大模式库；单测自愈闭环、PreToolUse 拦截与两级 `/compact` 压缩（省 85%+ Token）。 |
+| [**StatementFlow&nbsp;AI**](https://github.com/wangguode/statementflow-ai) | **确定性财务平账引擎** — AI 语义提取 + TypeScript 复式记账校验（精确至 `$0.01`），内置零 Key 启发式解析与表格公式注入防御（[在线使用](https://statementflow-ai.153557421.workers.dev) · [源码](https://github.com/wangguode/statementflow-ai)）。 |
+| [**ai-agent-voice**](https://github.com/wangguode/ai-agent-voice) | **语音网关与架构实验室** — 100+ 篇体系化架构长文与可运行代码实验室，含 FreeSWITCH 8kHz 裸流 + SOXR VHQ 重采样 60ms RTP 打断实现（[RTP 实验室](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)）。 |
 
 ---
 
