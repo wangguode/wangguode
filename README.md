@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-  <img alt="王果 · Wang Guo" src="./assets/banner-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img alt="王果 · Wang Guo" src="./assets/hero-dark.svg" width="100%" />
 </picture>
 
 <br/>
