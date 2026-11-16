@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F17" />
+      <stop offset="55%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <radialGradient id="glow-right" cx="82%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.18" />
+      <stop offset="60%" stop-color="#4F46E5" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#0B0F17" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accent-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid-dark" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#334155" stroke-width="0.6" stroke-opacity="0.28" />
+    </pattern>
+  </defs>
+
+  <!-- Base Card -->
+  <rect width="1200" height="240" rx="14" fill="url(#bg-dark)" />
+  <rect width="1200" height="240" rx="14" fill="url(#grid-dark)" />
+  <rect width="1200" height="240" rx="14" fill="url(#glow-right)" />
+  <rect x="0.75" y="0.75" width="1198.5" height="238.5" rx="13.25" fill="none" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- Subtle Right-Side Architectural Motif: Acoustic Wave + Agent Loop Topology -->
+  <g transform="translate(760, 36)" opacity="0.85">
+    <!-- Outer subtle orbit ring -->
+    <circle cx="260" cy="84" r="72" fill="none" stroke="#334155" stroke-width="1" stroke-dasharray="4 6" />
+    <circle cx="260" cy="84" r="46" fill="none" stroke="#0284C7" stroke-width="1" stroke-opacity="0.45" />
+
+    <!-- Minimalist Acoustic Waveform Bars (left of ring) -->
+    <g fill="#38BDF8" fill-opacity="0.45">
+      <rect x="30" y="74" width="3" height="20" rx="1.5" />
+      <rect x="40" y="62" width="3" height="44" rx="1.5" />
+      <rect x="50" y="48" width="3" height="72" rx="1.5" fill-opacity="0.7" />
+      <rect x="60" y="68" width="3" height="32" rx="1.5" />
+      <rect x="70" y="56" width="3" height="56" rx="1.5" fill-opacity="0.65" />
+      <rect x="80" y="40" width="3" height="88" rx="1.5" fill-opacity="0.85" />
+      <rect x="90" y="60" width="3" height="48" rx="1.5" />
+      <rect x="100" y="70" width="3" height="28" rx="1.5" />
+      <rect x="110" y="52" width="3" height="64" rx="1.5" fill-opacity="0.6" />
+      <rect x="120" y="76" width="3" height="16" rx="1.5" />
+    </g>
+
+    <!-- Connecting Bus Line -->
+    <line x1="136" y1="84" x2="188" y2="84" stroke="#38BDF8" stroke-width="1.2" stroke-dasharray="3 3" stroke-opacity="0.6" />
+
+    <!-- Agent State Nodes -->
+    <line x1="228" y1="52" x2="292" y2="52" stroke="#475569" stroke-width="1.2" />
+    <line x1="292" y1="52" x2="292" y2="116" stroke="#475569" stroke-width="1.2" />
+    <line x1="292" y1="116" x2="228" y2="116" stroke="#475569" stroke-width="1.2" />
+    <line x1="228" y1="116" x2="228" y2="52" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.7" />
+
+    <circle cx="228" cy="52" r="4.5" fill="#38BDF8" />
+    <circle cx="292" cy="52" r="4.5" fill="#818CF8" />
+    <circle cx="292" cy="116" r="4.5" fill="#38BDF8" />
+    <circle cx="228" cy="116" r="4.5" fill="#10B981" />
+    <circle cx="260" cy="84" r="6" fill="#0F172A" stroke="#38BDF8" stroke-width="2" />
+
+    <!-- Small Technical Labels -->
+    <text x="52" y="148" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1">52ms VAD / RTP</text>
+    <text x="216" y="172" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1">HARNESS LOOP</text>
+  </g>
+
+  <!-- Left Content Area -->
+  <g transform="translate(56, 54)">
+    <!-- Top Tagline Pill -->
+    <text x="0" y="0" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" letter-spacing="2">SYSTEMS ARCHITECTURE · OPEN SOURCE</text>
+
+    <!-- Main Name & Title -->
+    <text x="0" y="46" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="34" font-weight="700" letter-spacing="0.5">王果  <tspan fill="#64748B" font-weight="400" font-size="24">/  Wang Guo</tspan></text>
+
+    <!-- Accent Divider -->
+    <rect x="0" y="64" width="280" height="2" rx="1" fill="url(#accent-line)" />
+
+    <!-- Core Positioning -->
+    <text x="0" y="96" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16" font-weight="500">AI Agent 智能体架构 · 全双工实时语音引擎 · 确定性工程系统</text>
+
+    <!-- Subtle Domain Pills -->
+    <g transform="translate(0, 118)">
+      <rect x="0" y="0" width="142" height="26" rx="6" fill="#1E293B" fill-opacity="0.75" stroke="#334155" stroke-width="1" />
+      <text x="71" y="17" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif" font-size="12">知乎 @王果ai (1.2w+)</text>
+
+      <rect x="154" y="0" width="176" height="26" rx="6" fill="#1E293B" fill-opacity="0.75" stroke="#334155" stroke-width="1" />
+      <text x="242" y="17" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif" font-size="12">《OpenClaw 深度解析》作者</text>
+
+      <rect x="342" y="0" width="156" height="26" rx="6" fill="#1E293B" fill-opacity="0.75" stroke="#334155" stroke-width="1" />
+      <text x="420" y="17" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif" font-size="12">可运行代码与产品驱动</text>
+    </g>
+  </g>
+</svg>
