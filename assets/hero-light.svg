@@ -57,7 +57,7 @@
 
   <!-- Left Content Area (Larger, Balanced Proportions + Book Preserved) -->
   <g transform="translate(54, 48)">
-    <text x="0" y="0" fill="#0284C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5" font-weight="600" letter-spacing="2">VOICE AI · AGENT HARNESS · DETERMINISTIC SYSTEMS</text>
+    <text x="0" y="0" fill="#0284C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.8">VOICE AI · AGENT HARNESS · WORLD MODELS · DETERMINISTIC SYSTEMS</text>
     <text x="0" y="48" fill="#0F172A" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="38" font-weight="700" letter-spacing="0.5">王果 <tspan fill="#64748B" font-weight="400" font-size="25">/ Wang Guo</tspan></text>
     <rect x="0" y="66" width="280" height="2" rx="1" fill="url(#accent-line-light)" />
     <text x="0" y="98" fill="#334155" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="17" font-weight="500">专注于全双工实时语音引擎、编码智能体控制面与确定性工程系统</text>

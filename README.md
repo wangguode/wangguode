@@ -3,22 +3,28 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img alt="王果 · Wang Guo" src="./assets/hero-dark.svg" width="100%" />
+  <img alt="王果 · Wang Guo" src="./assets/hero-dark.svg" width="1200" height="215" />
 </picture>
 
 <br/>
 
-[![Zhihu](https://img.shields.io/badge/知乎-@王果ai_(1.2w+_关注)-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/wang-guo-ha-53)
-[![Email](https://img.shields.io/badge/Email-17768113090@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:17768113090@163.com)
+**[知乎 @王果ai (1.2w+ 关注)](https://www.zhihu.com/people/wang-guo-ha-53)** &nbsp;·&nbsp; **[Email](mailto:17768113090@163.com)** &nbsp;·&nbsp; **[TERRA-OASIS 在线体验](https://terra-world-travel.153557421.workers.dev/)** &nbsp;·&nbsp; **[HardCall 语音座舱](https://hardcall.153557421.workers.dev)**
 
 </div>
 
 ---
 
-### 核心开源项目
+### 关于我 (About)
+
+专注构建**可验证、低延迟、确定性**的 AI 工程系统：全双工实时语音引擎、编码智能体 Harness 控制面，以及浏览器端 3D 世界模型与高斯泼溅（3DGS）交互系统。著有技术专著《OpenClaw 深度解析：从架构原理到 Agent 工程实践》。
+
+---
+
+### 核心开源项目 (Flagship Projects)
 
 | 项目 | 核心定位与工程指标 |
 | :--- | :--- |
+| [**TERRA-OASIS**](https://github.com/wangguode/terra-world-travel) | **可交互 3D 世界模型与 3DGS 沙盒** — 集成焦山定慧寺 8K 摄影测量扫描、Amazon Lumberyard Bistro 写实街区、Three.js `Sky`/`Water` 物理渲染与 World Labs **SparkJS 3D Gaussian Splatting**（`.spz` 实景漫游），全静态边缘部署 60 FPS 即开即玩（[在线体验](https://terra-world-travel.153557421.workers.dev/) · [源码](https://github.com/wangguode/terra-world-travel)）。 |
 | [**HardCall**](https://github.com/wangguode/hardcall) | **52ms 实时语音打断座舱** — 端侧声学 VAD + 256 帧环形缓冲截断，0.16ms 硬件级清空残留尾音；提供 Web 工作台与 Swift 6 原生 macOS 客户端（[在线体验](https://hardcall.153557421.workers.dev) · [源码](https://github.com/wangguode/hardcall)）。 |
 | [**zhishu-agent**](https://github.com/wangguode/zhishu-agent) | **知枢智能体 Harness 架构** — Java 17 (Spring Boot 3) 全栈工作台 + Python 零依赖 8 大模式库；单测自愈闭环、PreToolUse 拦截与两级 `/compact` 压缩（省 85%+ Token）。 |
 | [**StatementFlow&nbsp;AI**](https://github.com/wangguode/statementflow-ai) | **确定性财务平账引擎** — AI 语义提取 + TypeScript 复式记账校验（精确至 `$0.01`），内置零 Key 启发式解析与表格公式注入防御（[在线使用](https://statementflow-ai.153557421.workers.dev) · [源码](https://github.com/wangguode/statementflow-ai)）。 |
