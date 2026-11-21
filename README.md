@@ -8,7 +8,7 @@
 
 <br/>
 
-**[知乎 @王果ai (1.2w+ 关注)](https://www.zhihu.com/people/wang-guo-ha-53)** &nbsp;·&nbsp; **[Email](mailto:17768113090@163.com)** &nbsp;·&nbsp; **[StatementFlow AI 在线使用](https://statementflow-ai.153557421.workers.dev)** &nbsp;·&nbsp; **[HardCall 语音座舱](https://hardcall.153557421.workers.dev)**
+**[知乎 @王果ai (1.2w+ 关注)](https://www.zhihu.com/people/wang-guo-ha-53)** &nbsp;·&nbsp; **[Email](mailto:17768113090@163.com)** &nbsp;·&nbsp; **[8D 重庆 GTA 在线体验](https://terra-world-travel.153557421.workers.dev/)** &nbsp;·&nbsp; **[HardCall 语音座舱](https://hardcall.153557421.workers.dev)** &nbsp;·&nbsp; **[StatementFlow AI](https://statementflow-ai.153557421.workers.dev)**
 
 </div>
 
@@ -24,6 +24,7 @@
 
 | 项目 | 核心定位与工程指标 |
 | :--- | :--- |
+| [**TERRA-OASIS**](https://github.com/wangguode/terra-world-travel) | **8D 魔幻重庆 GTA 开放世界 & 3DGS 沙盒** — 基于真实 OSM（502 栋建筑 / 271 条路网）重建渝中半岛、洪崖洞与来福士，集成 `cannon-es` 跑车漂移物理与 GTA 雷达小地图；并融合焦山 8K 扫描与 **SparkJS 3DGS**，Cloudflare 边缘秒开（[在线体验](https://terra-world-travel.153557421.workers.dev/) · [源码](https://github.com/wangguode/terra-world-travel)）。 |
 | [**HardCall**](https://github.com/wangguode/hardcall) | **52ms 实时语音打断座舱** — 端侧声学 VAD + 256 帧环形缓冲截断，0.16ms 硬件级清空残留尾音；提供 Web 工作台与 Swift 6 原生 macOS 客户端（[在线体验](https://hardcall.153557421.workers.dev) · [源码](https://github.com/wangguode/hardcall)）。 |
 | [**zhishu-agent**](https://github.com/wangguode/zhishu-agent) | **知枢智能体 Harness 架构** — Java 17 (Spring Boot 3) 全栈工作台 + Python 零依赖 8 大模式库；单测自愈闭环、PreToolUse 拦截与两级 `/compact` 压缩（省 85%+ Token）。 |
 | [**StatementFlow&nbsp;AI**](https://github.com/wangguode/statementflow-ai) | **确定性财务平账引擎** — AI 语义提取 + TypeScript 复式记账校验（精确至 `$0.01`），内置零 Key 启发式解析与表格公式注入防御（[在线使用](https://statementflow-ai.153557421.workers.dev) · [源码](https://github.com/wangguode/statementflow-ai)）。 |
