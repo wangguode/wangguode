@@ -8,7 +8,7 @@
 
 <br/>
 
-**[知乎 @王果ai (1.2w+ 关注)](https://www.zhihu.com/people/wang-guo-ha-53)** &nbsp;·&nbsp; **[Email](mailto:17768113090@163.com)** &nbsp;·&nbsp; **[HardCall 语音座舱](https://hardcall.153557421.workers.dev)** &nbsp;·&nbsp; **[StatementFlow AI](https://statementflow-ai.153557421.workers.dev)** &nbsp;·&nbsp; **[TERRA-OASIS 世界模型](https://terra-world-travel.153557421.workers.dev/)**
+**[StatementFlow AI](https://statementflow.win)** &nbsp;·&nbsp; **[HardCall 语音模拟器 & B2B 网关](https://hardcall.statementflow.win)** &nbsp;·&nbsp; **[知乎 @王果ai (1.2w+ 关注)](https://www.zhihu.com/people/wang-guo-ha-53)** &nbsp;·&nbsp; **[Email](mailto:153557421@qq.com)**
 
 </div>
 
@@ -16,8 +16,7 @@
 
 ### 关于我 (About)
 
-- **工程方向**：全双工实时语音引擎、编码智能体 Harness 控制面、确定性 FinTech 平账引擎
-- **前沿探索**：持续深耕 **世界模型（World Models）** 架构学习与 Web 3D 交互推演实践
+- **工程方向**：确定性 FinTech 财务平账引擎、全双工实时语音网关（8kHz RTP / FreeSWITCH）、生产级编码智能体 Harness 控制面
 - **技术专著**：《OpenClaw 深度解析：从架构原理到 Agent 工程实践》（清华大学出版社）
 
 ---
@@ -26,11 +25,10 @@
 
 | 项目 | 核心定位与工程指标 |
 | :--- | :--- |
-| [**HardCall**](https://github.com/wangguode/hardcall) | **52ms 实时语音打断座舱** — 端侧声学 VAD + 256 帧环形缓冲截断，0.16ms 硬件级清空残留尾音；提供 Web 工作台与 Swift 6 原生 macOS 客户端（[在线体验](https://hardcall.153557421.workers.dev) · [源码](https://github.com/wangguode/hardcall)）。 |
+| [**StatementFlow&nbsp;AI**](https://github.com/wangguode/statementflow-ai) | **确定性财务平账与批量 PDF 提取引擎** — 支持 105+ 全球银行与会计格式；浏览器端 100% 本地多 PDF 批量提取（`pdfjs-dist`）+ 边缘大模型精准结构化 + `$0.00` 复式平账校验与 CSV 注入防御（[在线使用](https://statementflow.win) · [源码](https://github.com/wangguode/statementflow-ai)）。 |
+| [**HardCall**](https://github.com/wangguode/hardcall) | **全双工语音打断交互模拟器 & B2B 语音网关展示** — 免费浏览器端打断节奏模拟器 + Swift 6 原生客户端，面向企业提供 `$3,000+` 8kHz RTP / FreeSWITCH 私有化语音网关方案（[在线体验](https://hardcall.statementflow.win) · [源码](https://github.com/wangguode/hardcall)）。 |
 | [**zhishu-agent**](https://github.com/wangguode/zhishu-agent) | **知枢智能体 Harness 架构** — Java 17 (Spring Boot 3) 全栈工作台 + Python 零依赖 8 大模式库；单测自愈闭环、PreToolUse 拦截与两级 `/compact` 压缩（省 85%+ Token）。 |
-| [**StatementFlow&nbsp;AI**](https://github.com/wangguode/statementflow-ai) | **确定性财务平账引擎** — AI 语义提取 + TypeScript 复式记账校验（精确至 `$0.01`），内置零 Key 启发式解析与表格公式注入防御（[在线使用](https://statementflow-ai.153557421.workers.dev) · [源码](https://github.com/wangguode/statementflow-ai)）。 |
-| [**ai-agent-voice**](https://github.com/wangguode/ai-agent-voice) | **语音网关与架构实验室** — 100+ 篇体系化架构长文与可运行代码实验室，含 FreeSWITCH 8kHz 裸流 + SOXR VHQ 重采样 60ms RTP 打断实现（[RTP 实验室](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)）。 |
-| [**TERRA-OASIS**](https://github.com/wangguode/terra-world-travel) | **世界模型学习图谱与交互式 3D 沙盒** — 系统梳理 100+ 篇 World Models 前沿文献知识图谱，并基于 Three.js、SparkJS（3DGS）与物理引擎构建浏览器端空间交互实验平台（[在线体验](https://terra-world-travel.153557421.workers.dev/) · [源码](https://github.com/wangguode/terra-world-travel)）。 |
+| [**ai-agent-voice**](https://github.com/wangguode/ai-agent-voice) | **电信级语音网关与架构实验室** — 100+ 篇体系化架构长文与可运行代码实验室，含 FreeSWITCH 8kHz 裸流 + SOXR VHQ 重采样 60ms RTP 打断实现（[RTP 实验室](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)）。 |
 
 ---
 
