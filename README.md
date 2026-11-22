@@ -30,7 +30,7 @@
 | [**HardCall**](https://github.com/wangguode/hardcall) | **全双工语音打断交互模拟器 & B2B 语音网关展示** — 免费浏览器端打断节奏模拟器 + Swift 6 原生客户端，面向企业提供 8kHz RTP / FreeSWITCH 私有化语音网关方案（[在线体验](https://hardcall.statementflow.win) · [源码](https://github.com/wangguode/hardcall)）。 |
 | [**zhishu-agent**](https://github.com/wangguode/zhishu-agent) | **知枢智能体 Harness 架构** — Java 17 (Spring Boot 3) 全栈工作台 + Python 零依赖 8 大模式库；单测自愈闭环、PreToolUse 拦截与两级 `/compact` 压缩（省 85%+ Token）。 |
 | [**ai-agent-voice**](https://github.com/wangguode/ai-agent-voice) | **电信级语音网关与架构实验室** — 100+ 篇体系化架构长文与可运行代码实验室，含 FreeSWITCH 8kHz 裸流 + SOXR VHQ 重采样 60ms RTP 打断实现（[RTP 实验室](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)）。 |
-| [**TERRA-OASIS**](https://github.com/wangguode/terra-world-travel) | **SparkJS 3DGS 真实光场世界与世界模型研究台** — 基于 World Labs `@sparkjsdev/spark` 在浏览器端实时渲染照片级 3D 高斯泼溅实景，支持拖入自定义 `.spz`/`.ply`/`.splat` 自由漫游，并内置 100+ 篇 World Models 文献知识图谱（[在线体验](https://terra-world-travel.153557421.workers.dev/) · [源码](https://github.com/wangguode/terra-world-travel)）。 |
+| [**TERRA-OASIS**](https://github.com/wangguode/terra-world-travel) | **真实地球 3D 卫星地形漫游器 & 世界模型研究台** — 基于 MapLibre GL v5 + Esri 全球卫星实景 + AWS 3D 高程 + OpenFreeMap 3D 城市建筑，零 API Key 纯前端 60 FPS 自由航拍全球真实地标，并内置 100+ 篇 World Models 前沿文献知识图谱（[在线体验](https://terra-world-travel.153557421.workers.dev/) · [源码](https://github.com/wangguode/terra-world-travel)）。 |
 
 ---
 
