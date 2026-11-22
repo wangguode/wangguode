@@ -30,7 +30,7 @@
 | [**HardCall**](https://github.com/wangguode/hardcall) | **全双工语音打断交互模拟器 & B2B 语音网关展示** — 免费浏览器端打断节奏模拟器 + Swift 6 原生客户端，面向企业提供 8kHz RTP / FreeSWITCH 私有化语音网关方案（[在线体验](https://hardcall.statementflow.win) · [源码](https://github.com/wangguode/hardcall)）。 |
 | [**zhishu-agent**](https://github.com/wangguode/zhishu-agent) | **知枢智能体 Harness 架构** — Java 17 (Spring Boot 3) 全栈工作台 + Python 零依赖 8 大模式库；单测自愈闭环、PreToolUse 拦截与两级 `/compact` 压缩（省 85%+ Token）。 |
 | [**ai-agent-voice**](https://github.com/wangguode/ai-agent-voice) | **电信级语音网关与架构实验室** — 100+ 篇体系化架构长文与可运行代码实验室，含 FreeSWITCH 8kHz 裸流 + SOXR VHQ 重采样 60ms RTP 打断实现（[RTP 实验室](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)）。 |
-| [**TERRA-OASIS**](https://github.com/wangguode/terra-world-travel) | **世界模型学习图谱与交互式 3D 沙盒** — 系统梳理 100+ 篇 World Models 前沿文献知识图谱，并基于 Three.js、SparkJS（3DGS）与物理引擎构建浏览器端空间交互实验平台（[在线体验](https://terra-world-travel.153557421.workers.dev/) · [源码](https://github.com/wangguode/terra-world-travel)）。 |
+| [**TERRA-OASIS**](https://github.com/wangguode/terra-world-travel) | **纯程序化 WebGL 飞行世界与世界模型研究台** — 零外部 3D/音频素材，纯代码实时生成云海浮空仙山、七层金顶古塔、流动瀑布与五声音阶 Web Audio 音效（60 FPS 秒开），并内置 100+ 篇 World Models 文献知识图谱（[在线体验](https://terra-world-travel.153557421.workers.dev/) · [源码](https://github.com/wangguode/terra-world-travel)）。 |
 
 ---
 
