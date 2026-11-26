@@ -8,7 +8,7 @@
 
 <br/>
 
-**[TERRA-OASIS 世界模型](https://terra-world-travel.153557421.workers.dev/)** &nbsp;·&nbsp; **[StatementFlow AI](https://statementflow.win)** &nbsp;·&nbsp; **[HardCall 语音网关](https://hardcall.statementflow.win)** &nbsp;·&nbsp; **[LaunchPulse](https://pulse.statementflow.win)** &nbsp;·&nbsp; **[知乎 @王果ai](https://www.zhihu.com/people/wang-guo-ha-53)** &nbsp;·&nbsp; **[Email](mailto:153557421@qq.com)**
+**[TERRA-OASIS 世界模型](https://terra.statementflow.win)** &nbsp;·&nbsp; **[StatementFlow AI](https://statementflow.win)** &nbsp;·&nbsp; **[HardCall 语音网关](https://hardcall.statementflow.win)** &nbsp;·&nbsp; **[LaunchPulse](https://pulse.statementflow.win)** &nbsp;·&nbsp; **[知乎 @王果ai](https://www.zhihu.com/people/wang-guo-ha-53)** &nbsp;·&nbsp; **[Email](mailto:153557421@qq.com)**
 
 </div>
 
@@ -17,7 +17,7 @@
 ### 关于我
 
 - **工程方向**：确定性 FinTech 财务平账引擎、全双工实时语音网关（8kHz RTP / FreeSWITCH）、生产级编码智能体 Harness 架构
-- **前沿探索**：持续深耕 **世界模型（World Models）** 架构与 Web 3D 真实地球交互推演（[`TERRA-OASIS`](https://terra-world-travel.153557421.workers.dev/)）
+- **前沿探索**：持续深耕 **世界模型（World Models）** 架构与 Web 3D 真实地球交互推演（[`TERRA-OASIS`](https://terra.statementflow.win)）
 - **技术专著**：《OpenClaw 深度解析：从架构原理到 Agent 工程实践》（清华大学出版社）
 
 ---
@@ -26,7 +26,7 @@
 
 | 项目 | 核心定位与工程指标 |
 | :--- | :--- |
-| [**TERRA-OASIS**](https://github.com/wangguode/terra-world-travel) | **真实地球 3D 卫星地形漫游器 & 世界模型研究台** — MapLibre GL v5 + Esri 全球卫星 + AWS 3D 高程 + OpenFreeMap 3D 建筑，零 API Key 60 FPS 航拍全球地标，内置 100+ 篇 World Models 前沿文献知识图谱（[在线体验](https://terra-world-travel.153557421.workers.dev/)）。 |
+| [**TERRA-OASIS**](https://github.com/wangguode/terra-world-travel) | **真实地球 3D 卫星地形漫游器 & 世界模型研究台** — MapLibre GL v5 + Esri 全球卫星 + AWS 3D 高程 + OpenFreeMap 3D 建筑，零 API Key 60 FPS 航拍全球地标，内置 100+ 篇 World Models 前沿文献知识图谱（[在线体验](https://terra.statementflow.win)）。 |
 | [**zhishu-agent**](https://github.com/wangguode/zhishu-agent) | **知枢智能体 Harness 架构** — Spring Boot 3 全栈工作台 + Python 零依赖 8 大模式库；单测自愈闭环、PreToolUse 边界拦截与两级 `/compact` 上下文压缩（省 85%+ Token）。 |
 | [**ai-agent-voice**](https://github.com/wangguode/ai-agent-voice) | **电信级语音网关与架构实验室** — 100+ 篇体系化架构长文与可运行代码实验室，含 FreeSWITCH 8kHz 裸流 + SOXR VHQ 重采样 60ms RTP 打断实现（[RTP 实验室](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein)）。 |
 | [**HardCall**](https://github.com/wangguode/hardcall) | **全双工语音打断模拟器 & B2B 8kHz RTP 网关** — 免费浏览器端打断演练 + 52ms vs 920ms 声波对比，面向企业提供 8kHz RTP / FreeSWITCH 私有化语音网关方案（[在线体验](https://hardcall.statementflow.win)）。 |
