@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 194" width="580" height="194">
+  <defs>
+    <linearGradient id="cbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <radialGradient id="cglow" cx="92%" cy="12%" r="55%">
+      <stop offset="0%" stop-color="#F43F5E" stop-opacity="0.17" />
+      <stop offset="100%" stop-color="#0B1120" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="580" height="194" rx="14" fill="url(#cbg)" />
+  <rect width="580" height="194" rx="14" fill="url(#cglow)" />
+  <rect x="0.75" y="0.75" width="578.5" height="192.5" rx="13.25" fill="none" stroke="#1E293B" stroke-width="1.5" />
+
+  <g transform="translate(26, 26)">
+    <circle cx="5" cy="6" r="4" fill="#F43F5E" />
+    <text x="16" y="10" fill="#FB7185" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.4">FINTECH &amp; EDGE GROWTH</text>
+    <rect x="396" y="-6" width="132" height="22" rx="11" fill="#3F1D2E" fill-opacity="0.48" stroke="#F43F5E" stroke-opacity="0.5" />
+    <text x="462" y="9" text-anchor="middle" fill="#FDA4AF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="600">$0.00 DRIFT · &lt;10ms</text>
+
+    <text x="0" y="46" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="21" font-weight="700">StatementFlow &amp; LaunchPulse</text>
+
+    <text x="0" y="76" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13.5">StatementFlow：105+ 全球银行 PDF 浏览器本地提取与 $0.00 复式平账</text>
+    <text x="0" y="99" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13">LaunchPulse：100+ 出海目录三波次分发、12 维 AEO 体检与边缘归因</text>
+
+    <g transform="translate(0, 120)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="500">
+      <rect x="0" y="0" width="134" height="24" rx="7" fill="#1E293B" fill-opacity="0.7" />
+      <text x="67" y="16" text-anchor="middle" fill="#E2E8F0">Local PDF + OCR</text>
+      <rect x="142" y="0" width="128" height="24" rx="7" fill="#1E293B" fill-opacity="0.7" />
+      <text x="206" y="16" text-anchor="middle" fill="#E2E8F0">QBO / Xero CSV</text>
+      <rect x="278" y="0" width="142" height="24" rx="7" fill="#1E293B" fill-opacity="0.7" />
+      <text x="349" y="16" text-anchor="middle" fill="#E2E8F0">Cloudflare D1 Edge</text>
+    </g>
+  </g>
+</svg>
