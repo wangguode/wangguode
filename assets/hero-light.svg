@@ -1,104 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 246" width="1200" height="246">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 215" width="1200" height="215">
   <defs>
     <linearGradient id="bg-light" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#F8FAFC" />
-      <stop offset="55%" stop-color="#F1F5F9" />
+      <stop offset="60%" stop-color="#F1F5F9" />
       <stop offset="100%" stop-color="#EFF6FF" />
     </linearGradient>
-    <radialGradient id="glow-right-light" cx="83%" cy="50%" r="40%">
+    <radialGradient id="glow-right-light" cx="83%" cy="50%" r="38%">
       <stop offset="0%" stop-color="#0284C7" stop-opacity="0.11" />
-      <stop offset="58%" stop-color="#059669" stop-opacity="0.05" />
+      <stop offset="62%" stop-color="#059669" stop-opacity="0.04" />
       <stop offset="100%" stop-color="#F8FAFC" stop-opacity="0" />
     </radialGradient>
     <linearGradient id="accent-line-light" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0284C7" stop-opacity="0.92" />
-      <stop offset="48%" stop-color="#059669" stop-opacity="0.82" />
-      <stop offset="84%" stop-color="#E11D48" stop-opacity="0.68" />
+      <stop offset="50%" stop-color="#059669" stop-opacity="0.80" />
+      <stop offset="85%" stop-color="#E11D48" stop-opacity="0.65" />
       <stop offset="100%" stop-color="#E11D48" stop-opacity="0" />
     </linearGradient>
     <pattern id="grid-light" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#CBD5E1" stroke-width="0.6" stroke-opacity="0.45" />
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#CBD5E1" stroke-width="0.6" stroke-opacity="0.44" />
     </pattern>
   </defs>
 
-  <rect width="1200" height="246" rx="16" fill="url(#bg-light)" />
-  <rect width="1200" height="246" rx="16" fill="url(#grid-light)" />
-  <rect width="1200" height="246" rx="16" fill="url(#glow-right-light)" />
-  <rect x="0.75" y="0.75" width="1198.5" height="244.5" rx="15.25" fill="none" stroke="#E2E8F0" stroke-width="1.5" />
+  <rect width="1200" height="215" rx="14" fill="url(#bg-light)" />
+  <rect width="1200" height="215" rx="14" fill="url(#grid-light)" />
+  <rect width="1200" height="215" rx="14" fill="url(#glow-right-light)" />
+  <rect x="0.75" y="0.75" width="1198.5" height="213.5" rx="13.25" fill="none" stroke="#E2E8F0" stroke-width="1.5" />
 
-  <!-- Right-Side 3-Pillar Architectural Diagram -->
-  <g transform="translate(790, 25)" opacity="0.94">
-    <rect x="0" y="18" width="366" height="160" rx="14" fill="#FFFFFF" fill-opacity="0.72" stroke="#E2E8F0" stroke-width="1" />
-
-    <!-- Pillar 1: 8kHz RTP Acoustic Waveform -->
-    <g transform="translate(18, 50)">
-      <g fill="#0284C7" fill-opacity="0.58">
-        <rect x="0" y="37" width="3.5" height="22" rx="1.75" />
-        <rect x="10" y="25" width="3.5" height="46" rx="1.75" />
-        <rect x="20" y="11" width="3.5" height="74" rx="1.75" fill="#059669" fill-opacity="0.88" />
-        <rect x="30" y="30" width="3.5" height="36" rx="1.75" />
-        <rect x="40" y="18" width="3.5" height="60" rx="1.75" fill-opacity="0.75" />
-        <rect x="50" y="3" width="3.5" height="90" rx="1.75" fill="#E11D48" fill-opacity="0.88" />
-        <rect x="60" y="23" width="3.5" height="50" rx="1.75" />
-        <rect x="70" y="32" width="3.5" height="32" rx="1.75" fill="#059669" fill-opacity="0.78" />
-        <rect x="80" y="16" width="3.5" height="64" rx="1.75" />
-        <rect x="90" y="38" width="3.5" height="20" rx="1.75" />
-      </g>
-      <text x="47" y="112" text-anchor="middle" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="0.8">52ms RTP</text>
+  <!-- Right-Side Minimalist 3-Stage Motif: Acoustic Wave -> Harness Loop -> 3D World Sphere -->
+  <g transform="translate(806, 59)" opacity="0.9">
+    <!-- 1. Acoustic Waveform -->
+    <g fill="#0284C7" fill-opacity="0.54">
+      <rect x="0" y="38" width="3.5" height="20" rx="1.75" />
+      <rect x="11" y="26" width="3.5" height="44" rx="1.75" />
+      <rect x="22" y="13" width="3.5" height="70" rx="1.75" fill="#059669" fill-opacity="0.85" />
+      <rect x="33" y="31" width="3.5" height="34" rx="1.75" />
+      <rect x="44" y="19" width="3.5" height="58" rx="1.75" fill-opacity="0.74" />
+      <rect x="55" y="6" width="3.5" height="84" rx="1.75" fill="#E11D48" fill-opacity="0.88" />
+      <rect x="66" y="25" width="3.5" height="46" rx="1.75" />
+      <rect x="77" y="34" width="3.5" height="28" rx="1.75" fill="#059669" fill-opacity="0.76" />
+      <rect x="88" y="39" width="3.5" height="18" rx="1.75" />
     </g>
 
-    <line x1="120" y1="98" x2="148" y2="98" stroke="#0284C7" stroke-width="1.2" stroke-dasharray="3 3" stroke-opacity="0.6" />
+    <line x1="106" y1="48" x2="136" y2="48" stroke="#0284C7" stroke-width="1.2" stroke-dasharray="3 3" stroke-opacity="0.55" />
 
-    <!-- Pillar 2: Deterministic Agent Harness Loop -->
-    <g transform="translate(154, 66)">
-      <rect x="0" y="0" width="64" height="64" rx="11" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.3" />
-      <circle cx="0" cy="0" r="4.2" fill="#0284C7" />
-      <circle cx="64" cy="0" r="4.5" fill="#E11D48" />
-      <circle cx="64" cy="64" r="4.2" fill="#0284C7" />
-      <circle cx="0" cy="64" r="4.5" fill="#059669" />
-      <circle cx="32" cy="32" r="14" fill="none" stroke="#059669" stroke-width="1.2" stroke-dasharray="3 2" stroke-opacity="0.72" />
-      <circle cx="32" cy="32" r="5" fill="#FFFFFF" stroke="#059669" stroke-width="2" />
-      <text x="32" y="96" text-anchor="middle" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="0.8">HARNESS</text>
+    <!-- 2. Harness State Loop -->
+    <g transform="translate(144, 20)">
+      <rect x="0" y="0" width="56" height="56" rx="10" fill="none" stroke="#94A3B8" stroke-width="1.3" />
+      <circle cx="0" cy="0" r="4" fill="#0284C7" />
+      <circle cx="56" cy="0" r="4.2" fill="#E11D48" />
+      <circle cx="56" cy="56" r="4" fill="#0284C7" />
+      <circle cx="0" cy="56" r="4.2" fill="#059669" />
+      <circle cx="28" cy="28" r="5" fill="#FFFFFF" stroke="#059669" stroke-width="2" />
     </g>
 
-    <line x1="226" y1="98" x2="254" y2="98" stroke="#059669" stroke-width="1.2" stroke-dasharray="3 3" stroke-opacity="0.6" />
+    <line x1="210" y1="48" x2="240" y2="48" stroke="#059669" stroke-width="1.2" stroke-dasharray="3 3" stroke-opacity="0.55" />
 
-    <!-- Pillar 3: 3D World Model Wireframe Sphere -->
-    <g transform="translate(302, 98)">
-      <circle cx="0" cy="0" r="38" fill="none" stroke="#0284C7" stroke-width="1.2" stroke-opacity="0.62" />
-      <ellipse cx="0" cy="0" rx="38" ry="14" fill="none" stroke="#0284C7" stroke-width="1" stroke-opacity="0.38" />
-      <ellipse cx="0" cy="0" rx="16" ry="38" fill="none" stroke="#4F46E5" stroke-width="1" stroke-opacity="0.42" />
-      <circle cx="27" cy="-27" r="4" fill="#059669" />
-      <circle cx="-16" cy="11" r="3" fill="#E11D48" />
-      <text x="0" y="64" text-anchor="middle" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="0.8">3D WORLD</text>
+    <!-- 3. 3D World Sphere -->
+    <g transform="translate(284, 48)">
+      <circle cx="0" cy="0" r="36" fill="none" stroke="#0284C7" stroke-width="1.2" stroke-opacity="0.55" />
+      <ellipse cx="0" cy="0" rx="36" ry="13" fill="none" stroke="#0284C7" stroke-width="1" stroke-opacity="0.34" />
+      <ellipse cx="0" cy="0" rx="15" ry="36" fill="none" stroke="#4F46E5" stroke-width="1" stroke-opacity="0.40" />
+      <circle cx="25" cy="-25" r="3.8" fill="#059669" />
     </g>
   </g>
 
   <!-- Left Content Area -->
-  <g transform="translate(52, 42)">
-    <circle cx="4.5" cy="-4.5" r="3.8" fill="#059669" />
-    <text x="17" y="0" fill="#0284C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600" letter-spacing="1.8">VOICE AI · AGENT HARNESS · WORLD MODELS · DETERMINISTIC FINTECH</text>
-
-    <text x="0" y="46" fill="#0F172A" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="38" font-weight="700" letter-spacing="0.4">王果 <tspan fill="#64748B" font-weight="400" font-size="24">/ Wang Guo</tspan></text>
-
-    <rect x="0" y="63" width="320" height="2" rx="1" fill="url(#accent-line-light)" />
-
-    <text x="0" y="93" fill="#1E293B" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16.5" font-weight="500">专注于全双工实时语音网关、生产级编码智能体控制面与世界模型工程推演</text>
-    <text x="0" y="121" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14" font-weight="400">清华大学出版社《OpenClaw 深度解析：从架构原理到 Agent 工程实践》作者 · 知乎 @王果ai (1.2w+)</text>
-
-    <!-- Engineering Telemetry Capsules -->
-    <g transform="translate(0, 144)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">
-      <rect x="0" y="0" width="152" height="26" rx="13" fill="#E0F2FE" stroke="#7DD3FC" />
-      <text x="76" y="17" text-anchor="middle" fill="#0369A1">&lt;52ms RTP Barge-In</text>
-
-      <rect x="162" y="0" width="166" height="26" rx="13" fill="#D1FAE5" stroke="#6EE7B7" />
-      <text x="245" y="17" text-anchor="middle" fill="#047857">-85% Token /compact</text>
-
-      <rect x="338" y="0" width="168" height="26" rx="13" fill="#EEF2FF" stroke="#A5B4FC" />
-      <text x="422" y="17" text-anchor="middle" fill="#4338CA">3D Earth · 100+ Papers</text>
-
-      <rect x="516" y="0" width="158" height="26" rx="13" fill="#FFE4E6" stroke="#FDA4AF" />
-      <text x="595" y="17" text-anchor="middle" fill="#BE123C">$0.00 Ledger Proof</text>
-    </g>
+  <g transform="translate(54, 48)">
+    <circle cx="4" cy="-4.5" r="3.5" fill="#059669" />
+    <text x="16" y="0" fill="#0284C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.8">VOICE AI · AGENT HARNESS · WORLD MODELS</text>
+    <text x="0" y="48" fill="#0F172A" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="38" font-weight="700" letter-spacing="0.5">王果 <tspan fill="#64748B" font-weight="400" font-size="25">/ Wang Guo</tspan></text>
+    <rect x="0" y="66" width="260" height="2" rx="1" fill="url(#accent-line-light)" />
+    <text x="0" y="98" fill="#334155" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="17" font-weight="500">专注于全双工实时语音网关、编码智能体控制面与世界模型工程推演</text>
+    <text x="0" y="130" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14.5" font-weight="400">清华大学出版社《OpenClaw 深度解析》作者 · 知乎 @王果ai (1.2w+)</text>
   </g>
 </svg>
